@@ -1,4 +1,4 @@
-#  
+#  Get the ultimate Alfred for macOS tool with Alfred for macOS vip Tool - multi-device sync and widgets. Featuring multi-device sync and widgets, it's the best choice for macOS
 
 
 
